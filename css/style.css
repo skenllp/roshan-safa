@@ -592,9 +592,9 @@ body.gate-active {
 .hero-name-bride {
   font-family: var(--font-script);
   font-weight: 400;
-  font-size: clamp(58px, 11vw, 108px);
+  font-size: clamp(40px, 8.5vw, 84px);
   color: rgba(248, 235, 215, 0.97);
-  line-height: 1;
+  line-height: 1.15;
   display: block;
   text-shadow: 0 4px 30px rgba(0, 0, 0, 0.55);
 }
@@ -612,9 +612,9 @@ body.gate-active {
 .hero-name-groom {
   font-family: var(--font-script);
   font-weight: 400;
-  font-size: clamp(58px, 11vw, 108px);
+  font-size: clamp(40px, 8.5vw, 84px);
   color: rgba(248, 235, 215, 0.97);
-  line-height: 1;
+  line-height: 1.15;
   display: block;
   text-shadow: 0 4px 30px rgba(0, 0, 0, 0.55);
   margin-top: 4px;
